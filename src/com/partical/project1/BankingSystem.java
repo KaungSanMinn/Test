@@ -19,7 +19,8 @@ public class BankingSystem {
 
     }
 
-    void addAmount(int amt) {
+    void addAmount(int amt)
+    {
         amount += amt;
     }
 

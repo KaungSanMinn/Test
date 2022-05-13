@@ -81,7 +81,7 @@ public class MobilePackage {
                     Scanner phone = new Scanner(System.in);
                     long phone1 = phone.nextLong();
 
-                    System.out.println("Lee Pal Ya Mal");
+                    System.out.println("Successfully Gift");
                 }
                    else if (input5 == 3) {
                         Arrays.stream(data).forEach(System.out::println);
